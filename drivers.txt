@@ -1,0 +1,53 @@
+100000
+David
+Keathly
+5
+7
+1
+Optimus Prime
+5
+0
+1
+should drop a homework assignment too
+2
+
+100001
+Krish
+Kohir
+100
+9
+0
+Blimp
+2.1
+0
+1
+Must wear yellow
+3
+hi, hi, hi
+
+100002
+Chunlei
+Du
+7
+6
+0
+Ford Accord
+4.8
+1
+0
+Love u <3
+2
+
+100003
+Cathy
+Du
+4
+3
+0
+Hihi
+4.3
+0
+1
+Nope
+1
+
